@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋,  Michael Temitope Afolabi</h1>
-<h3 align="center">A passionate ALX software engineering student to become a full-stack developer from Nigeria</h3>
+<h3 align="center">A passionate ALX software engineering student  and a full-stack developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michafola&label=Profile%20views&color=0e75b6&style=flat" alt="michafola" /> </p>
 
-- 🌱 I’m currently learning **python, C programing Language, Linux scripting, SQL**
+- 🌱 I’m currently write **python, C programing Language, Linux scripting, SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Michafolab?tab=repositories](https://github.com/Michafolab?tab=repositories)
 
