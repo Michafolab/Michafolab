@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michafola&label=Profile%20views&color=0e75b6&style=flat" alt="michafola" /> </p>
 
-- 🌱 I’m currently write **python, C programing Language, Linux scripting, SQL**
+- 🌱 I currently write **python, C programming Language, Linux scripting, SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Michafolab?tab=repositories](https://github.com/Michafolab?tab=repositories)
 
