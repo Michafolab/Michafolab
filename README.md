@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,  Michael Temitope Afolabi</h1>
-<h3 align="center">A passionate ALX software engineering student  and a full-stack developer from Nigeria</h3>
+<h3 align="center">A passionate ALX software graduate a full-stack developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michafola&label=Profile%20views&color=0e75b6&style=flat" alt="michafola" /> </p>
 
